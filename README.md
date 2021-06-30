@@ -1,5 +1,9 @@
 # **--------- 503 ---------**
 ## _🚧 Under Construction 🚧_
+
+-----------------------------
+[![trophy](https://github-profile-trophy.vercel.app/?username=drsensor&no-bg=true&no-frame=true&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **DrSensor/DrsEnsor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
