@@ -1,9 +1,5 @@
 # **--------- 503 ---------**
 ## _🚧 Under Construction 🚧_
-
------------------------------
-[![trophy](https://github-profile-trophy.vercel.app/?username=drsensor&no-bg=true&no-frame=true&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--
 **DrSensor/DrsEnsor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-----------------------------
+[![trophy](https://github-profile-trophy.vercel.app/?username=drsensor&no-bg=true&no-frame=true&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<details><summary>Code Referral</summary>
+  
+  [![CTBot](https://img.shields.io/badge/CTBot-0.2%20TRX-blue?style=for-the-badge)](https://ctbot.io/login?invite=ucsdgk)
+</details>
