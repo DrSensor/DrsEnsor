@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=drsensor&no-bg=true&no-frame=true&row=1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <details><summary>Code Referral</summary>
   
-  [![CTBot](https://img.shields.io/badge/CTBot-0.2%20TRX-blue?style=for-the-badge)](https://ctbot.io/login?invite=ucsdgk)
+  [![WARP+](https://img.shields.io/badge/WARP+-1%20GB-orange?style=for-the-badge)](https://warp.plus/EFxD6)
+  [![CTBot](https://img.shields.io/badge/CTBot-0.2%20TRX-blue?style=for-the-badge)](https://ctbot.io/login?invite=ucsdgk)  
 </details>
