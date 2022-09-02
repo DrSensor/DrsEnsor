@@ -1,5 +1,9 @@
 <!--
 
+> **Bio**: Literally Full Stack (anything is fine) with Linux 8GB RAM as my development machine.
+>
+> Open for hire
+
 <!--
 > PS: I'M LOOKING FOR A JOB AND WEEKLY GIGS
 
