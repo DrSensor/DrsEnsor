@@ -1,8 +1,8 @@
 [![libera manifesto](https://img.shields.io/badge/libera-manifesto-lightgrey.svg)](https://liberamanifesto.com)
 
-> _"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it"_ — Patrick McKenzie.
+> _"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."_  — Patrick McKenzie.
 
-> _"If you're not doing something crazy, you're doing the wrong things”_ — Larry Page
+> _"If you're **not** doing something crazy, you're doing the wrong things.”_  — Larry Page
 
 <!--
 
