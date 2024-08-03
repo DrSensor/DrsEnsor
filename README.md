@@ -4,3 +4,5 @@ hey folks, did you know that our devstack is build around:
 - propaganda (marketing & conf talk)
 - capitalism (vc & big company funding)
 - consumerism (npm, pip, cargo, …)
+
+just embrace 👆that reality 🦧
